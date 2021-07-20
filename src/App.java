@@ -6,7 +6,7 @@ public class App{
 
     public static void main( String[] args ){
 
-        System.out.println( "Yeison Fernando Bienvenido al Sistema de Notas" );
+        System.out.println( "Yeison Fernando Bienvenido al Sistema de prueba de Notas" );
 
         // //Probar la clase Nota
         // Nota nota1 = new Nota();
